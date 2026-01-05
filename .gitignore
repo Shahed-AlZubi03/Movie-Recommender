@@ -1,0 +1,6 @@
+data/rating.csv
+data/movie.csv
+data/tag.csv
+src/data/ratings_cleaned.csv
+src/data/tags_cleaned.csv
+src/data/movies_cleaned.csv
